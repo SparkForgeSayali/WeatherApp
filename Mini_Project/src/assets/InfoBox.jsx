@@ -11,7 +11,7 @@ import WbSunnyIcon from '@mui/icons-material/WbSunny';
 export default function InfoBox({ info }) {
     const INIT_IMG = "https://images.unsplash.com/photo-1722858343990-1604f540c15d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZHVzdHklMjB3ZWF0aGVyfGVufDB8fDB8fHww";
 
-    let COLD_URL="https://images.unsplash.com/photo-1687265051328-3d9c67034cef?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29sZCUyMHdlYXRoZXJ8ZW58MHx8MHx8fDA%3D";
+    let COLD_URL="https://plus.unsplash.com/premium_photo-1670347627514-07a3d37e0670?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHNub3d8ZW58MHx8MHx8fDA%3D";
     let HOT_URL="https://images.unsplash.com/photo-1504370805625-d32c54b16100?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGhvdCUyMHdlYXRoZXJ8ZW58MHx8MHx8fDA%3D";
     let RAIN_URL="https://media.istockphoto.com/id/1322717990/photo/thick-dark-black-heavy-storm-clouds-covered-summer-sunset-sky-horizon-gale-speed-wind-blowing.webp?b=1&s=612x612&w=0&k=20&c=_aZ5hzsKx_I5Lfkl9KnkgIzOhvd7RbB2wyRnbpe_zUs=";
     return (
